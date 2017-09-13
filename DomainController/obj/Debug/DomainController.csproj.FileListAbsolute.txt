@@ -1,0 +1,5 @@
+C:\Projects\Dev\SupportAsu\DomainController\bin\Debug\DomainController.dll
+C:\Projects\Dev\SupportAsu\DomainController\bin\Debug\DomainController.pdb
+C:\Projects\Dev\SupportAsu\DomainController\obj\Debug\DomainController.csprojResolveAssemblyReference.cache
+C:\Projects\Dev\SupportAsu\DomainController\obj\Debug\DomainController.dll
+C:\Projects\Dev\SupportAsu\DomainController\obj\Debug\DomainController.pdb

@@ -1,0 +1,11 @@
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\SupportAsu.Model.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\SupportAsu.Model.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\SupportAsu.DTO.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\SupportAsu.DTO.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\obj\Debug\SupportAsu.Model.csprojResolveAssemblyReference.cache
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\obj\Debug\SupportAsu.Model.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Model\obj\Debug\SupportAsu.Model.pdb

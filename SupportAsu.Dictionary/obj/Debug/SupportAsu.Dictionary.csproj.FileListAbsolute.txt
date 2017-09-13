@@ -1,0 +1,17 @@
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.Dictionary.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.Dictionary.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.DTO.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.EntityFramework.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.Model.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\System.Linq.Dynamic.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\EntityFramework.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.DTO.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.EntityFramework.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.EntityFramework.dll.config
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\SupportAsu.Model.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\EntityFramework.xml
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\obj\Debug\SupportAsu.Dictionary.csprojResolveAssemblyReference.cache
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\obj\Debug\SupportAsu.Dictionary.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.Dictionary\obj\Debug\SupportAsu.Dictionary.pdb

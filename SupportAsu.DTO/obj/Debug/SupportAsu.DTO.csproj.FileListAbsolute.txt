@@ -1,0 +1,5 @@
+C:\Projects\Dev\SupportAsu\SupportAsu.DTO\bin\Debug\SupportAsu.DTO.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.DTO\bin\Debug\SupportAsu.DTO.pdb
+C:\Projects\Dev\SupportAsu\SupportAsu.DTO\obj\Debug\SupportAsu.DTO.csprojResolveAssemblyReference.cache
+C:\Projects\Dev\SupportAsu\SupportAsu.DTO\obj\Debug\SupportAsu.DTO.dll
+C:\Projects\Dev\SupportAsu\SupportAsu.DTO\obj\Debug\SupportAsu.DTO.pdb
